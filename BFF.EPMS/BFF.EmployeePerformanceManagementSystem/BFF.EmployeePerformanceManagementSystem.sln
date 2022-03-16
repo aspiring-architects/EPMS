@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFF.EPMS", "BFF.EPMS.csproj", "{650E5694-C535-42F5-865A-BCA49F152E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFF.EPMS.ViewModels", "..\BFF.EPMS.ViewModels\BFF.EPMS.ViewModels.csproj", "{565A46CC-FAE8-42D5-B0AC-84734C974316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{650E5694-C535-42F5-865A-BCA49F152E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650E5694-C535-42F5-865A-BCA49F152E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650E5694-C535-42F5-865A-BCA49F152E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650E5694-C535-42F5-865A-BCA49F152E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565A46CC-FAE8-42D5-B0AC-84734C974316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565A46CC-FAE8-42D5-B0AC-84734C974316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565A46CC-FAE8-42D5-B0AC-84734C974316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565A46CC-FAE8-42D5-B0AC-84734C974316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F34475AB-39FD-4D7F-8D08-6526477FAD8F}
+	EndGlobalSection
+EndGlobal
